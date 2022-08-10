@@ -10,3 +10,6 @@ Links:
   * [LinkedIn](https://www.linkedin.com/in/savioramos)
 
 ## Projetos:
+
+  * Detecção de Fraude em Cartões de Crédito: https://bit.ly/3zLNYkI
+  
