@@ -13,4 +13,5 @@ Links:
 
   * Detecção de Fraude em Cartões de Crédito: https://bit.ly/3zLNYkI
   * Análise dos dados de Criminalidade no Rio de Janeiro no ano de 2019: https://bit.ly/3dv8DC4
-  
+  * Detecção do Câncer de Mama com Machine Learning: https://bit.ly/3dP7CoD
+ 
