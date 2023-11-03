@@ -3,7 +3,7 @@
 # Sávio Oliveira Ramos
 Portfólio de Projetos de Data Science
 
-Formado em Engenharia Elétrica e pós-graduando em Ciência de Dados e Big Data, migrei para área de Data Science e estarei postando os meus projetos feitos aqui.
+Formado em **Engenharia Elétrica** e pós-graduado em **Ciência de Dados e Big Data**, estou me aprofundando cada vez mais na área de **Dados** e estarei postando os meus projetos feitos aqui.
 
 Links:
 
